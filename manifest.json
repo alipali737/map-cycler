@@ -1,0 +1,9 @@
+{
+  "name": "MapCycler",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/alipali737/map-cycler",
+  "description": "Plays every level once before any can repeat. Random order, works with modded levels, and remembers your progress in each save.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2304"
+  ]
+}
