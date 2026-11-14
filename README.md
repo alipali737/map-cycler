@@ -1,6 +1,6 @@
 # MapCycler
 
-Stops the same level coming up again and again. Instead of picking a completely random level every round, MapCycler plays **every level once, in a random order, before any level can repeat**. Then it starts a new cycle.
+A small [REPO](https://store.steampowered.com/app/3241660/REPO/) mod that stops the same level coming up again and again. Instead of picking a completely random level every round, MapCycler plays **every level once, in a random order, before any level can repeat**. Then it starts a new cycle.
 
 With three levels (A, B, C) it might go:
 
